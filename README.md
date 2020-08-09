@@ -5,7 +5,7 @@
 ------------
 :exclamation: **ABOUT**
 
-Project made in the "Next Level Week " by RocketSeat, between the days 3 and seven of august 2020.
+Project made in the "Next Level Week " by RocketSeat, between the days 3 and 7 of august 2020.
 The project is about a webpage to register and find teachers about basics subjects,
 so the user can hire then.
 The project was made with nodejs, sqlite and nunjucks.
